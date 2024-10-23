@@ -2,7 +2,8 @@
 [![An image of @tryxns's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tryxns)](https://holopin.io/@tryxns)
 
 ### Stats
-[![Tryxns's GitHub | Languages Over Time](https://stats.quira.sh/Tryxns/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Tryxns)
+[![Tryxns's GitHub | Topics Over Time](https://stats.quira.sh/Tryxns/topics-over-time?theme=dark)]
+
 <!--
 **Tryxns/Tryxns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
