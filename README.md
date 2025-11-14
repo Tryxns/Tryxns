@@ -1,4 +1,4 @@
-What are you looking for? I'm lazy to put cosmetics on my profile.
+I'm lazy to put cosmetics on my profile.
 
 <!--
 **Tryxns/Tryxns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
